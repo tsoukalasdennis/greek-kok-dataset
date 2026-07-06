@@ -1,6 +1,6 @@
 # Greek KOK Datasets & Assets
 
-##repo structure
+**repo structure**
 ```text
 ├── 📄 questions_car.json     
 ├── 📄 questions_moto.json    
@@ -13,7 +13,7 @@
         ├── 📁 truck/
         └── 📁 bus/
 ```
-##json structure (with example)
+**json structure (with example)**
 ```json
 {
   "id": "q_001",
