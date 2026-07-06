@@ -9,7 +9,6 @@
 └── 📁 assets/
     └── 📁 images/            
         ├── 📁 car/
-        ├── 📁 moto/
         ├── 📁 truck/
         └── 📁 bus/
 ```
