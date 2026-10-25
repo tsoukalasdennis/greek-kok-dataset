@@ -1,6 +1,6 @@
 # Greek KOK Datasets & Assets
 
-**repo structure**
+### **Repository structure**
 ```text
 ├── 📄 questions_car.json     
 ├── 📄 questions_moto.json    
@@ -12,7 +12,7 @@
         ├── 📁 truck/
         └── 📁 bus/
 ```
-**json structure (with example)**
+### **JSON structure - with example**
 ```json
 {
   "id": "q_001",
@@ -25,4 +25,7 @@
   "image_path": "assets/images/bus/q_001.jpg"
 }
 ```
-**Data Accuracy:** This dataset is derived from automated web scraping. Consequently, it may contain typographical or syntax errors, incorrect answers, duplicate questions, or omissions.
+A small demo is available on GitHub Pages to preview the dataset: [Greek KOK dataset demo](https://tsoukalasdennis.github.io/greek-kok-dataset-demo/)
+
+### **Data Accuracy** 
+This dataset was collected through automated web scraping and reviewed against official KOK PDFs. Despite this review, it may still contain typographical or formatting errors, incorrect answers, duplicate questions, or omissions. It is not an official source; please verify important information against current official materials.
